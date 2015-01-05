@@ -1,4 +1,7 @@
 SimpleLogger
 ============
 
-Very basic and crude logging util for Android
+A simple logging util for Android
+
+### Usage
+compile 'com.github.mustafa01ali:simpleloggerlib:1.0'
